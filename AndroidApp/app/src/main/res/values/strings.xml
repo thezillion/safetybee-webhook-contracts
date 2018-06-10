@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Safety Bee</string>
+
+    <string name="twitterUsername">\@joeytribbiani</string>
+
+    <string name="title_activity_map">MapActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
